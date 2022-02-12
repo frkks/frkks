@@ -12,7 +12,7 @@
 <a href="mailto:frkks47@gmail.com">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://-...-.medium.com">
+<a href="https://www.medium.com">
   <img align="center" src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://www.hackerrank.com">
