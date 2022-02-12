@@ -2,23 +2,23 @@
 <div align="center">
 <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="500px">
 </div>
-<div align="center"> <h1 align="center"> Hi There! This is TOMMY HAPPY👋 </h1> </div>
+<div align="center"> <h1 align="center"> Hi There! This is FARUK👋 </h1> </div>
 <h3 align="center">💬 Motivated tech enthusiast and Data Scientist from TURKEY 💬</h3>
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/tommy-happy//">
+<a href="https://www.linkedin.com/in/farukkose">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:tommyhappy01@gmail.com">  
+<a href="mailto:frkks47@gmail.com">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 <a href="https://-...-.medium.com">
   <img align="center" src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://www.hackerrank.com/tommyhappy01">
+<a href="https://www.hackerrank.com">
   <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
-<a href="https://github.com/Tommyhappy01">
+<a href="https://github.com/frkks">
   <img align="center" src="https://komarev.com/ghpvc/?username=emir1031" alt="Emir"  width="16%"/>
 </a>
 </p>
@@ -57,43 +57,10 @@
 </p>
 <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 </p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhappy01&theme=algolia&layout=compact" alt="languages" width="50%" >
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frkks&theme=algolia&layout=compact" alt="languages" width="50%" >
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tommyhappy01&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tommyhappy01&theme=algolia" alt="my commit status" width="48.2%"/>
-</p>
-<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
-<p align="center">
-<a href="https://github.com/emir1031/01_DATA_SCIENCE_NOTEBOOKS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
-</a>
-<a href="https://github.com/emir1031/02_ASSIGNMENTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
-</a>
-<a href="https://github.com/emir1031/03_PROJECTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PROJECTS&theme=algolia" />
-</a>
-<a href="https://github.com/emir1031/04_PYTHON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PYTHON&theme=algolia" />
-</a>
-<a href="https://github.com/emir1031/05_SQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_SQL&theme=algolia" />
-</a>
-<a href="https://github.com/emir1031/06_GSS_SPREADSHEET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_GSS_SPREADSHEET&theme=algolia" />
-</a>
-<a href="https://github.com/emir1031/07_TABLEAU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=07_TABLEAU&theme=algolia" />
-</a>
-<a href="https://github.com/emir1031/08_HTML_CSS_JAVASCRIPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=08_HTML_CSS_JAVASCRIPT&theme=algolia" />
-</a>
-<a href="https://github.com/emir1031/09_STATISTICS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=09_STATISTICS&theme=algolia" />
-</a>
-<a href="https://github.com/emir1031/10_CERTIFICATES">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=10_CERTIFICATES&theme=algolia" />
-</a>
-</p>👋
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=frkks&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frkks&theme=algolia" alt="my commit status" width="48.2%"/>
+👋
 
