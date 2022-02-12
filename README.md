@@ -62,5 +62,5 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=frkks&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frkks&theme=algolia" alt="my commit status" width="48.2%"/>
-👋
+
 
